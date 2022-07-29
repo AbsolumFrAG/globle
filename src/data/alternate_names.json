@@ -69,6 +69,22 @@
         {
             "real": "czechia",
             "alternative": "république tchèque"
+        },
+        {
+            "real": "north macedonia",
+            "alternative": "macedoine"
+        },
+        {
+            "real": "united states of america",
+            "alternative": "etats-unis"
+        },
+        {
+            "real": "georgia",
+            "alternative": "georgie"
+        },
+        {
+            "real": "azerbaijan",
+            "alternative": "azerbaidjan"
         }
     ],
     "es-MX": [
